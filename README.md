@@ -7,17 +7,39 @@
 
 <p align="left"> <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning and deep learning algorithms, exploring their productivity in our daily lives."**
+<h3 align="left">Summary:</h3>
+<p align="left">Aspiring AI professional pursuing an MSc in Artificial Intelligence and Machine Learning, with a strong foundation in statistics and mathematics. Experienced in building scalable machine learning models and data-driven solutions, proficient in Python, SQL, and various ML frameworks. Eager to apply my skills in an AI-focused role or internship, with a keen interest in data science and exploring LLM models like Gemini, OpenAI, and Groq.</p>
 
-- 🌱 I’m currently learning **about advanced techniques in natural language processing (NLP) and their applications in artificial intelligence.**
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><strong>Story Generator Application (June 2024):</strong> Developed a Streamlit web app for generating short stories from images using Gemini-Pro. <br>Technologies: Python, Streamlit, Google Cloud GenerativeAI API, Pillow.</li>
+  <li><strong>Flight Fare Prediction Application (April 2024 - June 2024):</strong> Built a user-centric Streamlit application for forecasting flight ticket prices, achieving 99% accuracy using Random Forest Regression. <br>Technologies: Python, SQL, Pandas, Data Warehousing, Database Management, CSV Processing.</li>
+  <li><strong>Netflix Data Analytics Dashboard (June 2024):</strong> Developed an interactive Power BI dashboard for in-depth analysis of Netflix data, enhancing data exploration through dynamic visualizations and advanced features. <br>Technologies: Power BI, Data Visualization, Data Modeling, Data Cleaning, Power Query, DAX, Python.</li>
+</ul>
 
-- 🤝 I’m looking for help with **implementing advanced neural network architectures in my machine learning projects**
+<h3 align="left">Skills:</h3>
+<ul>
+  <li><strong>Programming Skills:</strong> Python (NumPy, Pandas, scikit-learn, TensorFlow), R, SQL, LaTeX</li>
+  <li><strong>Data Science & Machine Learning:</strong> Exploratory Data Analysis, Predictive Modeling, NLP, DBMS, Deep Learning, Supervised, Unsupervised, Reinforcement Learning, GANs, Time Series Analysis, Visualization (Matplotlib, Seaborn, Power BI)</li>
+  <li><strong>Tools & Technologies:</strong> Advanced Excel, VS Code, MongoDB, Git</li>
+</ul>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Susanta2102](https://github.com/Susanta2102)
+<h3 align="left">Experience and Key Courses:</h3>
+<ul>
+  <li><strong>Career Essentials in Generative AI by Microsoft and LinkedIn:</strong> Trained in foundational concepts, applications, deep learning, and ethical considerations in AI.</li>
+  <li><strong>Statistics and Mathematics Tutor:</strong> 3+ years of experience providing personalized instruction to students.</li>
+  <li><strong>Data Collection and Analysis:</strong> Collected and analyzed data using surveys and MS Excel.</li>
+  <li><strong>R for Data Science:</strong> Workshop at Assam University on statistical programming and analysis.</li>
+  <li><strong>Python Bootcamp (Udemy):</strong> Mastered Python fundamentals, OOP, and data analysis.</li>
+</ul>
 
-- 📫 How to reach me **msa23009@iiitl.ac.in**
-
-- ⚡ Fun fact **Did you know that the first artificial neural network, known as the Perceptron, was developed in 1957 by Frank Rosenblatt, laying the groundwork for modern deep learning algorithms?**
+<h3 align="left">Achievements:</h3>
+<ul>
+  <li><strong>IIT JAM 2023:</strong> Achieved All India Rank (AIR) 218 out of 3563 candidates in Mathematical Statistics.</li>
+  <li><strong>Hackathons:</strong> Placed 171st out of 3000+ participants in CodeSmash 2.0 with a score of 97/100.</li>
+  <li><strong>Kaggle Competitions:</strong> Ranked in the top 2% in datasets, top 3% in notebooks, and achieved a notable position in "The Learning Agency Lab - PII Data Detection" competition.</li>
+  <li><strong>KVS National Under-17 Chess Championship (2019):</strong> Secured a national ranking of 63 out of 158 participants.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +52,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
