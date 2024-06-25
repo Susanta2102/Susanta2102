@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
-<h3 align="center">Hey there! 🌟 I'm thrilled to be a first-year student diving into the world of MSC in AI & ML at the prestigious Indian Institute of Information Technology, Lucknow (IIITL)! My passion? It's all about machine learning, data science, data analytics, and artificial intelligence! 💡📊 I'm on a mission to conquer this field and have been pouring my heart into various exciting projects. Take a peek at some of the repositories I'm currently jazzing up below. Buckle up, it's going to be an exhilarating ride! 🚀💻</h3>
+<h3 align="center">Aspiring AI professional pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" /> </p>
 
@@ -8,29 +8,15 @@
 <p align="left"> <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a> </p>
 
 <h3 align="left">Summary:</h3>
-<p align="left">Aspiring AI professional pursuing an MSc in Artificial Intelligence and Machine Learning, with a strong foundation in statistics and mathematics. Experienced in building scalable machine learning models and data-driven solutions, proficient in Python, SQL, and various ML frameworks. Eager to apply my skills in an AI-focused role or internship, with a keen interest in data science and exploring LLM models like Gemini, OpenAI, and Groq.</p>
-
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><strong>Story Generator Application (June 2024):</strong> Developed a Streamlit web app for generating short stories from images using Gemini-Pro. <br>Technologies: Python, Streamlit, Google Cloud GenerativeAI API, Pillow.</li>
-  <li><strong>Flight Fare Prediction Application (April 2024 - June 2024):</strong> Built a user-centric Streamlit application for forecasting flight ticket prices, achieving 99% accuracy using Random Forest Regression. <br>Technologies: Python, SQL, Pandas, Data Warehousing, Database Management, CSV Processing.</li>
-  <li><strong>Netflix Data Analytics Dashboard (June 2024):</strong> Developed an interactive Power BI dashboard for in-depth analysis of Netflix data, enhancing data exploration through dynamic visualizations and advanced features. <br>Technologies: Power BI, Data Visualization, Data Modeling, Data Cleaning, Power Query, DAX, Python.</li>
-</ul>
+<p align="left">
+I am an aspiring AI professional currently pursuing an MSc in Artificial Intelligence and Machine Learning at the prestigious Indian Institute of Information Technology, Lucknow (IIITL). I have a strong foundation in statistics and mathematics, with hands-on experience in building scalable machine learning models and data-driven solutions. I am proficient in Python, SQL, and various ML frameworks. I am eager to apply my skills in an AI-focused role or internship, with a keen interest in data science and exploring LLM models like Gemini, OpenAI, and Groq.
+</p>
 
 <h3 align="left">Skills:</h3>
 <ul>
   <li><strong>Programming Skills:</strong> Python (NumPy, Pandas, scikit-learn, TensorFlow), R, SQL, LaTeX</li>
   <li><strong>Data Science & Machine Learning:</strong> Exploratory Data Analysis, Predictive Modeling, NLP, DBMS, Deep Learning, Supervised, Unsupervised, Reinforcement Learning, GANs, Time Series Analysis, Visualization (Matplotlib, Seaborn, Power BI)</li>
   <li><strong>Tools & Technologies:</strong> Advanced Excel, VS Code, MongoDB, Git</li>
-</ul>
-
-<h3 align="left">Experience and Key Courses:</h3>
-<ul>
-  <li><strong>Career Essentials in Generative AI by Microsoft and LinkedIn:</strong> Trained in foundational concepts, applications, deep learning, and ethical considerations in AI.</li>
-  <li><strong>Statistics and Mathematics Tutor:</strong> 3+ years of experience providing personalized instruction to students.</li>
-  <li><strong>Data Collection and Analysis:</strong> Collected and analyzed data using surveys and MS Excel.</li>
-  <li><strong>R for Data Science:</strong> Workshop at Assam University on statistical programming and analysis.</li>
-  <li><strong>Python Bootcamp (Udemy):</strong> Mastered Python fundamentals, OOP, and data analysis.</li>
 </ul>
 
 <h3 align="left">Achievements:</h3>
