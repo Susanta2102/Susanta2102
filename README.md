@@ -10,6 +10,16 @@
 
 <p align="left"> <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a> </p>
 
+<h3 align="left">Introduction:</h3>
+<p align="left">
+  🔭 I’m currently working on <strong>machine learning and deep learning algorithms, exploring their productivity in our daily lives.</strong><br>
+  🌱 I’m currently learning <strong>about advanced techniques in natural language processing (NLP) and their applications in artificial intelligence.</strong><br>
+  🤝 I’m looking for help with <strong>implementing advanced neural network architectures in my machine learning projects.</strong><br>
+  👨‍💻 Seeking AI, Machine Learning, or Data Analyst roles.<br>
+  📫 How to reach me: <strong>msa23009@iiitl.ac.in</strong><br>
+  ⚡ Fun fact: <strong>Did you know that the first artificial neural network, known as the Perceptron, was developed in 1957 by Frank Rosenblatt, laying the groundwork for modern deep learning algorithms?</strong>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/susantbaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susantbaidya" height="30" width="40" /></a>
