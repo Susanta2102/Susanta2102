@@ -1,31 +1,14 @@
 <h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
 <h3 align="center">Aspiring AI professional pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊</h3>
+<p align="center">
+  🌟 I'm on a mission to conquer this field and have been pouring my heart into various exciting projects. Take a peek at some of the repositories I'm currently jazzing up below. Buckle up, it's going to be an exhilarating ride! 🚀💻
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susanta2102" alt="susanta2102" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a> </p>
-
-<h3 align="left">Summary:</h3>
-<p align="left">
-I am an aspiring AI professional currently pursuing an MSc in Artificial Intelligence and Machine Learning at the prestigious Indian Institute of Information Technology, Lucknow (IIITL). I have a strong foundation in statistics and mathematics, with hands-on experience in building scalable machine learning models and data-driven solutions. I am proficient in Python, SQL, and various ML frameworks. I am eager to apply my skills in an AI-focused role or internship, with a keen interest in data science and exploring LLM models like Gemini, OpenAI, and Groq.
-</p>
-
-<h3 align="left">Skills:</h3>
-<ul>
-  <li><strong>Programming Skills:</strong> Python (NumPy, Pandas, scikit-learn, TensorFlow), R, SQL, LaTeX</li>
-  <li><strong>Data Science & Machine Learning:</strong> Exploratory Data Analysis, Predictive Modeling, NLP, DBMS, Deep Learning, Supervised, Unsupervised, Reinforcement Learning, GANs, Time Series Analysis, Visualization (Matplotlib, Seaborn, Power BI)</li>
-  <li><strong>Tools & Technologies:</strong> Advanced Excel, VS Code, MongoDB, Git</li>
-</ul>
-
-<h3 align="left">Achievements:</h3>
-<ul>
-  <li><strong>IIT JAM 2023:</strong> Achieved All India Rank (AIR) 218 out of 3563 candidates in Mathematical Statistics.</li>
-  <li><strong>Hackathons:</strong> Placed 171st out of 3000+ participants in CodeSmash 2.0 with a score of 97/100.</li>
-  <li><strong>Kaggle Competitions:</strong> Ranked in the top 2% in datasets, top 3% in notebooks, and achieved a notable position in "The Learning Agency Lab - PII Data Detection" competition.</li>
-  <li><strong>KVS National Under-17 Chess Championship (2019):</strong> Secured a national ranking of 63 out of 158 participants.</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +17,11 @@ I am an aspiring AI professional currently pursuing an MSc in Artificial Intelli
 <a href="https://kaggle.com/susanta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="susanta21" height="30" width="40" /></a>
 <a href="https://instagram.com/susant_baidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susant_baidya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/msa23009_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msa23009_iiitl" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  🌐 <a href="https://susanta2102.github.io/SusantaBaidya.github.io/index.html" target="blank">Check out my portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
