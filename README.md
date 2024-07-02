@@ -86,15 +86,21 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susanta2102&" alt="susanta2102" />
 </p>
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🔧 Projects</h3>
+<p align="center">
+  <a href="https://github.com/susanta2102/Project1" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=susanta2102&repo=Project1" alt="Project 1" /></a>
+  <a href="https://github.com/susanta2102/Project2" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=susanta2102&repo=Project2" alt="Project 2" /></a>
+  <a href="https://github.com/susanta2102/Project3" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=susanta2102&repo=Project3" alt="Project 3" /></a>
+</p>
+<h3 align="center">📂 Portfolio</h3>
+<p align="center">
+  🌐 <a href="https://susanta2102.github.io/SusantaBaidya.github.io/index.html" target="blank">Check out my portfolio</a>
+</p>
+<h3 align="center">📫 Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/susantbaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susantbaidya" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/susanta-baidya-03436628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanta-baidya-03436628a" height="30" width="40" /></a>
   <a href="https://kaggle.com/susanta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="susanta21" height="30" width="40" /></a>
   <a href="https://instagram.com/susant_baidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susant_baidya" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/msa23009_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msa23009_iiitl" height="30" width="40" /></a>
-</p>
-<h3 align="center">📂 Portfolio</h3>
-<p align="center">
-  🌐 <a href="https://susanta2102.github.io/SusantaBaidya.github.io/index.html" target="blank">Check out my portfolio</a>
 </p>
