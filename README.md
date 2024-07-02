@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
 <h3 align="center">Aspiring AI Professional</h3>
 <p align="center">
-  Pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" /> 
+  <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" />
   <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a>
 </p>
-<h3 align="center">🚀 About Me</h3>
 <p align="center">
-  🔭 I’m currently working on <strong>machine learning and deep learning algorithms, exploring their productivity in our daily lives.</strong><br>
-  🌱 I’m learning <strong>advanced techniques in natural language processing (NLP) and their applications in artificial intelligence.</strong><br>
-  🤝 Looking for help with <strong>implementing advanced neural network architectures in my machine learning projects.</strong><br>
-  👨‍💻 Seeking AI, Machine Learning, or Data Analyst roles.<br>
-  📫 Reach me at: <strong>msa23009@iiitl.ac.in</strong><br>
-  ⚡ Fun fact: <strong>Did you know that the first artificial neural network, the Perceptron, was developed in 1957 by Frank Rosenblatt, laying the groundwork for modern deep learning algorithms?</strong>
+  <em>Pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊</em>
 </p>
+<p align="center">
+  🌟 <strong>I'm on a mission to conquer this field with various exciting projects. Take a peek at my repositories below and join me on this exhilarating journey! 🚀💻</strong>
+</p>
+<h3 align="center">🚀 About Me</h3>
+<ul align="center" style="list-style: none;">
+  <li>🔭 I’m currently working on <strong>machine learning and deep learning algorithms, exploring their productivity in our daily lives.</strong></li>
+  <li>🌱 I’m learning <strong>advanced techniques in natural language processing (NLP) and their applications in artificial intelligence.</strong></li>
+  <li>🤝 Looking for help with <strong>implementing advanced neural network architectures in my machine learning projects.</strong></li>
+  <li>👨‍💻 Seeking AI, Machine Learning, or Data Analyst roles.</li>
+  <li>📫 Reach me at: <strong>msa23009@iiitl.ac.in</strong></li>
+  <li>⚡ Fun fact: <strong>The first artificial neural network, the Perceptron, was developed in 1957 by Frank Rosenblatt, laying the groundwork for modern deep learning algorithms.</strong></li>
+</ul>
 <h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center"> 
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
