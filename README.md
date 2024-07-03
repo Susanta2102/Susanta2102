@@ -98,3 +98,16 @@
 <p align="center">
   🌐 <a href="https://susanta2102.github.io/SusantaBaidya.github.io/index.html" target="blank">Check out my portfolio</a>
 </p>
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
+
+<p align="center">
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+</p>
+
+<p align="center">
+  Profile view count
+  <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+</p>
