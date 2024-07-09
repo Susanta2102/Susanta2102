@@ -1,10 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
 <h3 align="center">Aspiring AI Professional</h3>
 
 <p align="center">
-  <img src="[url_to_your_gif](https://github.com/Susanta2102/Susanta2102/blob/main/The%20glitches%20are%20there.gif)" width="200" />
+  <img src="https://github.com/Susanta2102/Susanta2102/blob/main/The%20glitches%20are%20there.gif" width="300" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" />
