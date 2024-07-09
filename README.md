@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
+
 <h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
 <h3 align="center">Aspiring AI Professional</h3>
 
 <p align="center">
-  <img src="url_to_your_gif" width="200" />
+  <img src="[url_to_your_gif](https://github.com/Susanta2102/Susanta2102/blob/main/The%20glitches%20are%20there.gif)" width="200" />
 </p>
 
 <p align="center">
