@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
 <h3 align="center">Aspiring AI Professional</h3>
+
+![Alt Text](https://github.com/Susanta2102/Susanta2102/blob/main/The%20glitches%20are%20there.gif)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" />
   <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a>
