@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
-<h3 align="center">Aspiring AI Professional</h3>
+<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Susanta Baidya</h1>
+<h3 align="center" style="color: #ffffff;">Aspiring AI Professional</h3>
 
 <p align="center">
   <img src="https://github.com/Susanta2102/Susanta2102/blob/main/The%20glitches%20are%20there.gif" width="300" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" />
   <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a>
 </p>
 <p align="center">
-  <em>Pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊</em>
+  <em style="color: #d4d4d4;">Pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊</em>
 </p>
 <p align="center">
-  🌟 <strong>I'm on a mission to conquer this field with various exciting projects. Take a peek at my repositories below and join me on this exhilarating journey! 🚀💻</strong>
+  🌟 <strong style="color: #d4d4d4;">I'm on a mission to conquer this field with various exciting projects. Take a peek at my repositories below and join me on this exhilarating journey! 🚀💻</strong>
 </p>
-<h3 align="center">🚀 About Me</h3>
-<ul align="center" style="list-style: none;">
+
+<h3 align="center" style="color: #ffffff;">🚀 About Me</h3>
+<ul align="center" style="list-style: none; color: #d4d4d4;">
   <li>🔭 I’m currently working on <strong>machine learning and deep learning algorithms, exploring their productivity in our daily lives.</strong></li>
   <li>🌱 I’m learning <strong>advanced techniques in natural language processing (NLP) and their applications in artificial intelligence.</strong></li>
   <li>🤝 Looking for help with <strong>implementing advanced neural network architectures in my machine learning projects.</strong></li>
@@ -25,7 +25,8 @@
   <li>📫 Reach me at: <strong>msa23009@iiitl.ac.in</strong></li>
   <li>⚡ Fun fact: <strong>The first artificial neural network, the Perceptron, was developed in 1957 by Frank Rosenblatt, laying the groundwork for modern deep learning algorithms.</strong></li>
 </ul>
-<h3 align="center">🛠️ Languages and Tools</h3>
+
+<h3 align="center" style="color: #ffffff;">🛠️ Languages and Tools</h3>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -82,17 +83,19 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-<h3 align="center">📈 GitHub Stats</h3>
+
+<h3 align="center" style="color: #ffffff;">📈 GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susanta2102&show_icons=true&locale=en&layout=compact" alt="susanta2102" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susanta2102&show_icons=true&locale=en&layout=compact&theme=dark" alt="susanta2102" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=susanta2102&show_icons=true&locale=en" alt="susanta2102" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=susanta2102&show_icons=true&locale=en&theme=dark" alt="susanta2102" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susanta2102&" alt="susanta2102" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susanta2102&theme=dark" alt="susanta2102" />
 </p>
-<h3 align="center">🌐 Connect with Me</h3>
+
+<h3 align="center" style="color: #ffffff;">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/susantbaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susantbaidya" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/susanta-baidya-03436628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanta-baidya-03436628a" height="30" width="40" /></a>
@@ -100,18 +103,17 @@
   <a href="https://instagram.com/susant_baidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susant_baidya" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/msa23009_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msa23009_iiitl" height="30" width="40" /></a>
 </p>
-<h3 align="center">📂 Portfolio</h3>
+
+<h3 align="center" style="color: #ffffff;">📂 Portfolio</h3>
 <p align="center">
   🌐 <a href="https://susanta2102.github.io/SusantaBaidya.github.io/index.html" target="blank">Check out my portfolio</a>
 </p>
 
 <p align="center">
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dark" alt="README Jokes"></a>
 </p>
 
-
-
-<p align="center">
+<p align="center" style="color: #d4d4d4;">
   Profile view count
   <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 </p>
