@@ -1,120 +1,107 @@
-<h1 align="center">Hi 👋, I'm Susanta Baidya</h1>
-<h3 align="center">Aspiring AI Professional</h3>
-
-<p align="center">
-  <img src="https://github.com/Susanta2102/Susanta2102/blob/main/The%20glitches%20are%20there.gif" width="300" />
-</p>
+<h1 align="center">Hi 👋, I'm Susanta!</h1>
+<h3 align="center">Master's student in AI & ML, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=susanta2102&label=Profile%20views&color=0e75b6&style=flat" alt="susanta2102" />
-  <a href="https://twitter.com/susantbaidya" target="blank"><img src="https://img.shields.io/twitter/follow/susantbaidya?logo=twitter&style=for-the-badge" alt="susantbaidya" /></a>
-</p>
-<p align="center">
-  <em>Pursuing an MSc in Artificial Intelligence and Machine Learning at IIIT Lucknow. I'm passionate about machine learning, data science, data analytics, and artificial intelligence! 💡📊</em>
-</p>
-<p align="center">
-  🌟 <strong>I'm on a mission to conquer this field with various exciting projects. Take a peek at my repositories below and join me on this exhilarating journey! 🚀💻</strong>
-</p>
-<h3 align="center">🚀 About Me</h3>
-<ul align="center" style="list-style: none;">
-  <li>🔭 I’m currently working on <strong>machine learning and deep learning algorithms, exploring their productivity in our daily lives.</strong></li>
-  <li>🌱 I’m learning <strong>advanced techniques in natural language processing (NLP) and their applications in artificial intelligence.</strong></li>
-  <li>🤝 Looking for help with <strong>implementing advanced neural network architectures in my machine learning projects.</strong></li>
-  <li>👨‍💻 Seeking AI, Machine Learning, or Data Analyst roles.</li>
-  <li>📫 Reach me at: <strong>msa23009@iiitl.ac.in</strong></li>
-  <li>⚡ Fun fact: <strong>The first artificial neural network, the Perceptron, was developed in 1957 by Frank Rosenblatt, laying the groundwork for modern deep learning algorithms.</strong></li>
-</ul>
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susanta2102&show_icons=true&locale=en&layout=compact" alt="susanta2102" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=susanta2102&show_icons=true&locale=en" alt="susanta2102" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susanta2102&" alt="susanta2102" />
-</p>
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/susantbaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susantbaidya" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/susanta-baidya-03436628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanta-baidya-03436628a" height="30" width="40" /></a>
-  <a href="https://kaggle.com/susanta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="susanta21" height="30" width="40" /></a>
-  <a href="https://instagram.com/susant_baidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susant_baidya" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/msa23009_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msa23009_iiitl" height="30" width="40" /></a>
-</p>
-<h3 align="center">📂 Portfolio</h3>
-<p align="center">
-  🌐 <a href="https://susanta2102.github.io/SusantaBaidya.github.io/index.html" target="blank">Check out my portfolio</a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adityak8340&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+<p align="left"> <a href="https://twitter.com/Adityak22723056" target="blank"><img src="https://img.shields.io/twitter/follow/Adityak22723056?logo=twitter&style=for-the-badge" alt="Adityak22723056" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/Adityak22723056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/aditya-kumar-tiwari-a14547232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_username" height="30" width="40" /></a>
+    <a href="https://kaggle.com/aditya0kumar0tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_username" height="30" width="40" /></a>
+    <a href="https://instagram.com/_aadi_anant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_username" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/_aadi_anant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a>
 </p>
 
 
 
-<p align="center">
-  Profile view count
-  <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C | C++ |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  |
+
+  
+
+### Best frameworks and main libraries for Python3:
+
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
+
+
+### My tools for Data Manipulation:
+
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+
+
+
+  
+### Environments, Testing, Other:
+
+| Git | Docker | Pytest | Postman | Virtual Box|
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
+
+
+
+
+
+### A non-technological resource which is slated for imminent revision.:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  ]
+</div>
+
+
+<h3 align="left">Academic Coursework:</h3>
+<p align="left"> 
+    - Data Structures and Algorithms <br>
+    - Database Management Systems <br>
+    - Deep Learning <br>
+    - Image Vision and Processing
 </p>
 
 
 
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Adityak8340&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak8340&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityak8340&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
