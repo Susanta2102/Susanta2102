@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Susanta!</h1>
-<h3 align="center">Master's student in AI & ML, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Susanta!;AI+%26+ML+Enthusiast!;Let's+Connect!" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="500"/>
+</div>
+
+<h3 align="center">
+  🎓 Master's student in AI & ML | 💡 LLM Explorer | 🚀 Problem Solver
+</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adityak8340&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
