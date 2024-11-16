@@ -11,7 +11,7 @@
 </h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Susanta2102&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dibkb&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://x.com/SusantBaidya" target="blank"><img src="https://img.shields.io/twitter/follow/SusantBaidya?logo=twitter&style=for-the-badge" alt="Adityak22723056" /></a> </p>
