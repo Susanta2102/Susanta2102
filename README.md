@@ -136,27 +136,124 @@ Data Science      ██████████████████░░  
 
 <!-- New: Education Timeline -->
 <h2>📚 Education Journey</h2>
-
-```mermaid
-timeline
-    title My Academic Timeline
-    2023 : Started Masters in AI & ML
-    2022 : Completed Bachelor's Degree
-    2021 : First ML Project
-    2020 : Started Programming Journey
-```
-
-<!-- New: Project Highlights -->
-<h2>🌟 Featured Projects</h2>
-
+mermaidCopytimeline
+    title My Academic Journey in Data Science & AI
+    2023 : Started Masters in AI & ML 🤖
+         : Completed Bachelor's in Statistics 📊
+    2022 : Began Programming Journey 💻
+         : Discovered Passion for Machine Learning
+    2020 : Started Bachelor's in Statistics 📈
+         : First Introduction to Data Analysis
+<!-- New: Skills Evolution Timeline -->
+<h2>🌱 Skills Evolution</h2>
+mermaidCopyjourney
+    title My Learning Path
+    section Statistics
+      Data Analysis: 5: Me
+      Statistical Modeling: 4: Me
+      Probability Theory: 5: Me
+    section Programming
+      Python: 5: Me
+      C++: 3: Me
+      Data Structures: 4: Me
+    section AI & ML
+      Machine Learning: 4: Me
+      Deep Learning: 4: Me
+      Computer Vision: 3: Me
+<!-- New: Weekly Coding Stats -->
+<h2>⚡ Weekly Development Breakdown</h2>
+textCopyPython       █████████████████░░░░   80%
+C++          ████░░░░░░░░░░░░░░░░   20%
+ML/DL        ██████████████░░░░░░░   65%
+Statistics   ███████████████░░░░░░   70%
+Research     ████████░░░░░░░░░░░░░   40%
+<!-- New: Research Interests -->
+<h2>🔬 Research Interests</h2>
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susanta2102&repo=YourRepo1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susanta2102&repo=YourRepo2&theme=radical" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/neural.png"/>
+        <br>Neural Networks
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
+        <br>Deep Learning
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/statistics.png"/>
+        <br>Statistical ML
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/computer-vision.png"/>
+        <br>Computer Vision
+      </td>
+    </tr>
+  </table>
 </div>
+<!-- New: Certifications & Achievements -->
+<h2>🏆 Certifications & Achievements</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- New: Learning Goals -->
+<h2>🎯 2024 Learning Goals</h2>
+<div align="center">
+GoalProgressAdvanced Deep Learning🟢 In ProgressResearch Paper Publication🟡 PlanningOpen Source Contributions🟢 ActiveComputer Vision Projects🟢 Ongoing
+</div>
+<!-- New: Favorite Tech Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+<!-- New: Coding Productivity Stats -->
+<h2>💻 Coding Productivity</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Susanta2102&theme=radical&layout=compact" />
+</div>
+<!-- New: AI Project Workflow -->
+mermaidCopygraph LR
+    A[Data Collection] --> B[Preprocessing]
+    B --> C[Model Development]
+    C --> D[Training]
+    D --> E[Evaluation]
+    E --> F[Deployment]
+    style A fill:#f9d,stroke:#333,stroke-width:2px
+    style B fill:#adf,stroke:#333,stroke-width:2px
+    style C fill:#faa,stroke:#333,stroke-width:2px
+    style D fill:#afd,stroke:#333,stroke-width:2px
+    style E fill:#fda,stroke:#333,stroke-width:2px
+    style F fill:#daf,stroke:#333,stroke-width:2px
+<!-- New: Fun Facts -->
+<h2>⚡ Fun Facts</h2>
+pythonCopyclass Susanta:
+    def __init__(self):
+        self.fun_facts = {
+            "favorite_algorithm": "Neural Networks 🧠",
+            "daily_coffee": "☕ * 3",
+            "dream_tech": "AGI Development",
+            "hobby": "Exploring Latest AI Papers 📚"
+        }
+        self.motto = "Turning Data into Intelligence 🚀"
+
+    def get_daily_routine(self):
+        return [
+            "Code 💻",
+            "Learn 📚",
+            "Research 🔬",
+            "Repeat 🔄"
+        ]
 
 <!-- Existing Stats Section with New Theme -->
 <div align="center">
