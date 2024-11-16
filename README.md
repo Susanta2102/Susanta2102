@@ -16,14 +16,14 @@
 
 <p align="left"> <a href="https://x.com/SusantBaidya" target="blank"><img src="https://img.shields.io/twitter/follow/SusantBaidya?logo=twitter&style=for-the-badge" alt="Adityak22723056" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://x.com/SusantBaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/susanta-baidya-03436628a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://www.kaggle.com/susanta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/ez.susant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/msa23009_iiitl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/SusantBaidya?style=social)](https://twitter.com/SusantBaidya)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/susanta-baidya-03436628a/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://www.kaggle.com/susanta21)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/msa23009_iiitl/)
+  
+</div>
 
 
 
