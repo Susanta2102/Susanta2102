@@ -5,7 +5,10 @@
   <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="500"/>
 
   <!-- Added: GitHub Quotes -->
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default">
+  ## Motivational Quote Card
+
+<img src="https://afraid-ninnetta-github-cards.koyeb.app/motivational-quotes-card" alt="Motivational Quote Card">
+
 
   <!-- Added: GitHub Trophies -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=dibkb&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
