@@ -11,7 +11,7 @@
 
 
   <!-- Added: GitHub Trophies -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dibkb&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=krishnaik06&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
   <!-- Animated Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20about%20Deep%20Learning%20and%20Computer%20Vision&descAlignY=51&descAlign=62"/>
