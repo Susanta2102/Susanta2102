@@ -4,10 +4,7 @@
 
   <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="500"/>
 
-  <!-- Added: GitHub Quotes -->
-  ## Motivational Quote Card
 
-<img src="https://afraid-ninnetta-github-cards.koyeb.app/motivational-quotes-card" alt="Motivational Quote Card">
 
 
   <!-- Added: GitHub Trophies -->
