@@ -92,7 +92,6 @@ timeline
   
 
   <p>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Susanta2102&theme=tokyonight&hide_border=true"/>
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Susanta2102&show_icons=true&theme=tokyonight&hide_border=true"/>
   </p>
 
