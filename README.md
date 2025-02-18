@@ -1,161 +1,155 @@
 <div align="center">
   
-<!-- Dynamic Banner -->
-![AI & ML Engineer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21,24,27&height=200&section=header&text=AI%20Engineer&desc=Passionate%20about%20Deep%20Learning%20and%20Computer%20Vision&fontSize=50&descSize=20&animation=fadeIn&fontAlignY=25&descAlignY=50)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Susanta!;AI+%26+ML+Enthusiast!;Let's+Connect!;Building+the+Future+with+AI!;Deep+Learning+Explorer!;Always+Learning!;Transforming+Ideas+into+Code!;Making+AI+Accessible!)
 
-<!-- Animated Name -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Susanta!;AI+%26+ML+Enthusiast!;Deep+Learning+Explorer!;Building+the+Future+with+AI!)](https://git.io/typing-svg)
+  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="500"/>
 
-<!-- Profile Views & Social Links -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Susanta2102&style=flat-square&color=3B82F6" alt="Profile views"/>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/susanta-baidya-03436628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Susanta2102">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/SusantBaidya">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
 
-<!-- Brief Introduction -->
-<h3>🎓 Master's student in AI & ML | 💡 LLM Explorer | 🚀 Problem Solver</h3>
 
+
+  <!-- Added: GitHub Trophies -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=krishnaik06&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <!-- Animated Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20about%20Deep%20Learning%20and%20Computer%20Vision&descAlignY=51&descAlign=62"/>
 </div>
 
----
+<!-- Dynamic Badges Section -->
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanta-baidya-03436628a/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susanta2102)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/susanta21)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/msa23009_iiitl/)
+  [![Twitter](https://img.shields.io/twitter/follow/SusantBaidya?logo=twitter&style=for-the-badge)](https://x.com/SusantBaidya)
+  
+</div>
 
-### 👨‍💻 About Me
+<h3 align="center">
+  🎓 Master's student in AI & ML | 💡 LLM Explorer | 🚀 Problem Solver | 🤖 AI Enthusiast
+</h3>
+
+<!-- About Me Section with Icons -->
+<h2>🚀 About Me</h2>
 
 ```python
 class AIEngineer:
     def __init__(self):
         self.name = "Susanta"
         self.role = "AI & ML Engineer"
-        self.education = {
-            "masters": "AI & Machine Learning",
-            "bachelors": "Computer Science"
-        }
+        self.languages = ["Python", "C++", "C"]
         self.interests = ["Deep Learning", "Computer Vision", "LLMs"]
         self.currently_learning = "Transformer Architecture"
         self.fun_fact = "I dream in Python 🐍"
 
-    def get_current_projects(self):
-        return [
-            "🤖 Building Custom LLM Applications",
-            "🧠 Developing Computer Vision Solutions",
-            "📊 Creating ML Pipelines"
-        ]
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
 me = AIEngineer()
+me.say_hi()
 ```
 
----
-
-### 🚀 Current Focus
-
-- 🔭 Working on **Large Language Models and Computer Vision**
-- 🌱 Learning **Advanced Deep Learning Architectures**
-- 👯 Looking to collaborate on **AI/ML Open Source Projects**
-- 💬 Ask me about **Python, Deep Learning, Computer Vision**
-- ⚡ Fun fact: **I can explain complex AI concepts using simple analogies!**
-
----
-
-### 🛠️ Technical Stack
+<!-- Detailed Tech Stack Section -->
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <details>
 <summary>🐍 Programming Languages</summary>
+<div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-</details>
-
-<details>
-<summary>🤖 AI/ML Frameworks</summary>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</details>
-
-<details>
-<summary>🛠️ Development Tools</summary>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</details>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Susanta2102&theme=tokyonight)](https://github.com/Susanta2102)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Susanta2102&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susanta2102&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<!-- GitHub Activity Graph -->
-[![Susanta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Susanta2102&theme=tokyo-night)](https://github.com/Susanta2102)
-
+| Python3 | C | C++ |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  |
 </div>
+</details>
 
----
+<details>
+<summary>🤖 AI/ML Frameworks & Libraries</summary>
+<div>
 
-### 🎓 Education Journey
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+</div>
+</details>
+
+<details>
+<summary>📊 Data Tools</summary>
+<div>
+
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+</div>
+</details>
+
+<details>
+<summary>🔧 Development Tools</summary>
+<div>
+
+| Git | Docker | Pytest | Postman | Virtual Box|
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
+</div>
+</details>
+
+<!-- Education Timeline -->
+<h2>📚 Education Journey</h2>
 
 ```mermaid
 timeline
-    title Academic & Professional Timeline
+    title My Academic Timeline
     2023 : Started Masters in AI & ML
     2022 : Completed Bachelor's Degree
     2021 : First ML Project
     2020 : Started Programming Journey
 ```
 
----
+<!-- Academic Focus -->
+<h3 align="left">📚 Academic Focus:</h3>
+<div align="left">
+  <table>
+    <tr>
+      <td>🔬 Data Structures and Algorithms</td>
+      <td>📊 Database Management Systems</td>
+    </tr>
+    <tr>
+      <td>🧠 Deep Learning</td>
+      <td>👁️ Image Vision and Processing</td>
+    </tr>
+  </table>
+</div>
 
-### 🏆 Achievements
-
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Susanta2102&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🤝 Let's Connect!
+<!-- Stats Section -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Susanta2102&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/susanta-baidya-03436628a">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/SusantBaidya">
-    <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Susanta2102&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Susanta2102&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susanta2102&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<!-- Added: Spotify Now Playing -->
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xlevn6r7qodpvzfvlmvj3xly&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Susanta2102&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Susanta2102&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<!-- Footer Wave -->
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21,24,27&height=100&section=footer)
