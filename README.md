@@ -90,7 +90,6 @@ timeline
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Susanta2102&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
   <p>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Susanta2102&theme=tokyonight&hide_border=true"/>
