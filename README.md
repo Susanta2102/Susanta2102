@@ -10,25 +10,16 @@
   <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="450"/>
 </p>
 
-## 💼 Professional Summary
+## 💼 Professional Profile
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Susanta Baidya"
-        self.role = "AI Engineer @ DeepMatrix"
-        self.education = "Master's in AI & ML"
-        self.location = "India"
-        self.languages = ["Python", "C++", "C", "SQL"]
-        self.expertise = ["Deep Learning", "Computer Vision", "NLP", "LLMs"]
-        self.current_focus = "Transformer Architecture & MLOps"
-        
-    def mission(self):
-        return "Transforming complex problems into AI-powered solutions"
+I'm an AI Engineer at [DeepMatrix](https://deepmatrix.io) with expertise in computer vision and deep learning. Currently focused on developing cutting-edge solutions for tiny object detection, oriented object detection, and point cloud processing. With a Master's degree in AI & ML, I combine strong theoretical knowledge with practical implementation skills to solve complex real-world problems.
 
-me = AIEngineer()
-print(f"Mission: {me.mission()}")
-```
+> **"Transforming complex problems into AI-powered solutions"**
+
+- 🎓 **Education**: Master's in AI & Machine Learning
+- 🔭 **Focus Areas**: Computer Vision, Deep Learning, 3D Point Cloud Processing
+- 💻 **Programming**: Python, C++, C, SQL
+- 🌐 **Location**: India
 
 <div align="center">
   
@@ -47,10 +38,11 @@ print(f"Mission: {me.mission()}")
 
 - **AI Engineer** | [DeepMatrix](https://deepmatrix.io) | *Present*
   - Specializing in tiny object detection and tiny oriented detection algorithms
+  - Working with 3D point cloud data processing and analysis
   - Integrating advanced AI technologies into object detection systems
-  - Optimizing computer vision models for real-time detection of small objects
-  - Developing and deploying efficient edge-compatible detection solutions
-  - Collaborating with cross-functional teams to enhance product capabilities
+  - Developing computer vision models for real-time detection of small objects
+  - Creating efficient edge-compatible detection solutions
+  - Collaborating with research teams on next-generation CV technologies
 
 ## 💻 Technical Expertise
 
@@ -61,8 +53,8 @@ print(f"Mission: {me.mission()}")
 |  |  |
 |----------|-------------|
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **NLP & LLMs** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![Detectron2](https://img.shields.io/badge/Detectron2-013220?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **3D Vision & Point Cloud** | ![Open3D](https://img.shields.io/badge/Open3D-0099DD?style=for-the-badge&logo=open3d&logoColor=white) ![PCL](https://img.shields.io/badge/PCL-3776AB?style=for-the-badge&logo=pointcloud&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) |
 | **ML Ops** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white) ![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black) |
 
 </details>
@@ -120,10 +112,11 @@ timeline
 
 ## 🎯 Current Focus & Projects
 
-- 🔬 **Research:** Advanced transformer architectures for vision-language tasks
-- 🛠️ **Development:** Building production-grade MLOps pipelines at DeepMatrix
-- 🤖 **Learning:** Reinforcement learning for autonomous systems
-- 🔄 **Open to:** Collaborate on innovative deep learning projects
+- 🔬 **Research:** Advanced algorithms for tiny object detection and point cloud processing
+- 🛠️ **Development:** Building efficient computer vision systems for real-world applications
+- 🤖 **Innovation:** Combining 2D and 3D data for enhanced object detection capabilities
+- 🌟 **Exploration:** Deep learning approaches for processing sparse point cloud data
+- 🔄 **Open to:** Collaborate on innovative computer vision and AI projects
 
 <details>
 <summary><b>📌 Featured Projects</b></summary>
@@ -133,8 +126,9 @@ timeline
 |---------|-------------|--------------|
 | **Tiny Object Detection Framework** | Specialized detection system for small objects in complex environments | YOLOv8, PyTorch, TensorRT |
 | **Oriented Object Detection** | Detection framework handling rotated and oriented objects with high precision | Rotated IoU, PyTorch, C++ |
+| **Point Cloud Analysis System** | 3D point cloud processing and object segmentation for spatial data | PCL, Open3D, CUDA |
+| **Multi-modal Detection** | Integration of 2D image and 3D point cloud data for enhanced detection | PyTorch, C++, CUDA |
 | **Edge-Optimized Detection Models** | Lightweight models optimized for deployment on edge devices | TensorFlow Lite, ONNX, OpenVINO |
-| **Real-time Detection Pipeline** | End-to-end system for real-time tiny object detection | CUDA, OpenCV, Docker |
 
 </details>
 
