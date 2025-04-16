@@ -45,11 +45,12 @@ print(f"Mission: {me.mission()}")
 
 ## 🚀 Experience
 
-- **AI Engineer** | [DeepMatrix](https://deepmatrix.ai) | *Present*
-  - Developing advanced computer vision solutions for real-world problems
-  - Implementing and optimizing transformer-based architectures
-  - Building scalable ML pipelines for enterprise applications
-  - Collaborating with cross-functional teams to deliver AI-powered products
+- **AI Engineer** | [DeepMatrix](https://deepmatrix.io) | *Present*
+  - Specializing in tiny object detection and tiny oriented detection algorithms
+  - Integrating advanced AI technologies into object detection systems
+  - Optimizing computer vision models for real-time detection of small objects
+  - Developing and deploying efficient edge-compatible detection solutions
+  - Collaborating with cross-functional teams to enhance product capabilities
 
 ## 💻 Technical Expertise
 
@@ -130,10 +131,10 @@ timeline
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Vision Transformer** | Custom ViT implementation for medical image analysis | PyTorch, MONAI, Python |
-| **NLP Service** | Production-ready API for text analysis and sentiment detection | FastAPI, Hugging Face, Docker |
-| **Object Detection System** | Real-time object detection for industrial applications | YOLO, OpenCV, TensorRT |
-| **MLOps Pipeline** | End-to-end ML workflow automation | MLflow, DVC, GitHub Actions |
+| **Tiny Object Detection Framework** | Specialized detection system for small objects in complex environments | YOLOv8, PyTorch, TensorRT |
+| **Oriented Object Detection** | Detection framework handling rotated and oriented objects with high precision | Rotated IoU, PyTorch, C++ |
+| **Edge-Optimized Detection Models** | Lightweight models optimized for deployment on edge devices | TensorFlow Lite, ONNX, OpenVINO |
+| **Real-time Detection Pipeline** | End-to-end system for real-time tiny object detection | CUDA, OpenCV, Docker |
 
 </details>
 
