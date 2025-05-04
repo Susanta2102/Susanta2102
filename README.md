@@ -1,10 +1,10 @@
 # Susanta Baidya
-## AI Engineer | Deep Learning Specialist | Computer Vision Expert
+## AI Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
-I'm an AI Engineer with expertise in computer vision and deep learning. Currently focused on developing cutting-edge solutions for tiny object detection, oriented object detection, and point cloud processing. With a Master's degree in AI & ML, I combine strong theoretical knowledge with practical implementation skills to solve complex real-world problems.
+I am an MSc candidate in Artificial Intelligence and Machine Learning at IIIT Lucknow with a strong foundation in data science, deep learning, NLP, and computer vision. Passionate about solving real-world challenges, I have hands-on experience in building and deploying AI solutions, from lightning prediction models to defect detection systems. My expertise spans Python, SQL, cloud technologies, and ML frameworks, allowing me to develop scalable and efficient solutions. With a track record of competing in hackathons and contributing to open-source projects, I continuously refine my skills through platforms like Kaggle. I am eager to apply my knowledge to data-driven problems, leveraging AI/ML to create impactful and innovative solutions.
 
 - 🎓 **Education**: Master's in AI & Machine Learning
-- 🔭 **Focus Areas**: Computer Vision, Deep Learning, 3D Point Cloud Processing
+- 🔭 **Interest Areas**: Computer Vision, Deep Learning, 3D Point Cloud Processing
 - 💻 **Programming**: Python, C++, C, SQL
 - 🌐 **Location**: India
 
@@ -19,12 +19,12 @@ I'm an AI Engineer with expertise in computer vision and deep learning. Currentl
 ## Experience
 
 - **AI Engineer** | [DeepMatrix](https://deepmatrix.io) | *April 2025 - Present*
-  - Specializing in tiny object detection and tiny oriented detection algorithms
-  - Working with 3D point cloud data processing and analysis
-  - Integrating advanced AI technologies into object detection systems
-  - Developing computer vision models for real-time detection of small objects
-  - Creating efficient edge-compatible detection solutions
-  - Collaborating with research teams on next-generation CV technologies
+  - Learning to develop pipelines for object detection and defect detection using YOLO
+  - Exploring implementation of various detection algorithms
+  - Contributing to data preprocessing and annotation workflows for computer vision tasks
+  - Assisting in model training and validation processes
+  - Learning about optimization techniques for inference on different platforms
+  - Studying state-of-the-art object detection approaches
 
 - **Data Science Intern** | Climate Resilience Observatory (CRO), Government of Uttar Pradesh | *Sep 2024 - Apr 2025 · 8 mos*
   - Designed and developed a real-time Lightning and Climate Event Tracking System using Streamlit and MySQL
@@ -58,8 +58,8 @@ I'm an AI Engineer with expertise in computer vision and deep learning. Currentl
 - **Master's in AI & Machine Learning** (2023-2025)
 - **Bachelor's in STATISTICS** (2020-2023)
 
-## Current Focus & Projects
-- Research in advanced algorithms for tiny object detection and point cloud processing
-- Building efficient computer vision systems for real-world applications
-- Combining 2D and 3D data for enhanced object detection capabilities
-- Deep learning approaches for processing sparse point cloud data
+## Current Learning Focus
+- Learning about algorithms for object detection and image processing
+- Building skills in computer vision system development
+- Exploring techniques for combining different data types in AI models
+- Understanding deep learning approaches for various detection tasks
