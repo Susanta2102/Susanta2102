@@ -21,10 +21,8 @@ I am an MSc candidate in Artificial Intelligence and Machine Learning at IIIT Lu
 - **AI Engineer** | [DeepMatrix](https://deepmatrix.io) | *April 2025 - Present*
   - Learning to develop pipelines for object detection and defect detection using YOLO
   - Exploring implementation of various detection algorithms
-  - Contributing to data preprocessing and annotation workflows for computer vision tasks
-  - Assisting in model training and validation processes
   - Learning about optimization techniques for inference on different platforms
-  - Studying state-of-the-art object detection approaches
+  
 
 - **Data Science Intern** | Climate Resilience Observatory (CRO), Government of Uttar Pradesh | *Sep 2024 - Apr 2025 · 8 mos*
   - Designed and developed a real-time Lightning and Climate Event Tracking System using Streamlit and MySQL
