@@ -25,13 +25,12 @@ I am an MSc candidate in Artificial Intelligence and Machine Learning at IIIT Lu
   
 
 - **Data Science Intern** | Climate Resilience Observatory (CRO), Government of Uttar Pradesh | *Sep 2024 - Apr 2025 · 8 mos*
-  - Designed and developed a real-time Lightning and Climate Event Tracking System using Streamlit and MySQL
-  - Implemented APScheduler for automated data fetching and storage every 10 minutes
-  - Enhanced visualization through interactive Folium maps, heatmaps, and trend analysis using Plotly
-  - Developed a severity classification model with 85% accuracy to assess lightning strike impacts
-  - Created predictive models for floods, cold waves, and heat waves using deep learning techniques (87% average accuracy)
-  - Incorporated Generative AI for extreme weather condition simulation, improving prediction accuracy by 12%
-  - Built a system that improved early warning mechanisms and provided insights for disaster preparedness
+  -  Engineered end-to-end lightning prediction system for Uttar Pradesh using CNN-LSTM hybrid architecture, achiev
+     ing 86% prediction accuracy through optimized feature extraction and model tuning.
+  -  Created interactive geospatial data visualizations with Folium and Plotly, developing risk assessment maps and
+     real-time monitoring dashboards that reduced emergency response time by 40%.
+  -  Implemented automated ETL pipeline for meteorological data collection and preprocessing, integrating multiple
+     data sources for time-series forecasting that improved data reliability by 65%.
 
 ## Technical Skills
 
