@@ -1,11 +1,11 @@
 # Susanta Baidya
 ## AI Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
-I am an MSc candidate in Artificial Intelligence and Machine Learning at IIIT Lucknow with a strong foundation in data science, deep learning, NLP, and computer vision. Passionate about solving real-world challenges, I have hands-on experience in building and deploying AI solutions, from lightning prediction models to defect detection systems. My expertise spans Python, SQL, cloud technologies, and ML frameworks, allowing me to develop scalable and efficient solutions. With a track record of competing in hackathons and contributing to open-source projects, I continuously refine my skills through platforms like Kaggle. I am eager to apply my knowledge to data-driven problems, leveraging AI/ML to create impactful and innovative solutions.
+I was an MSc candidate in Artificial Intelligence and Machine Learning at IIIT Lucknow with a strong foundation in data science, deep learning, NLP, and computer vision. Passionate about solving real-world challenges, I gained hands-on experience in building and deploying AI solutions, from lightning prediction models to defect detection systems. My expertise spanned Python, SQL, cloud technologies, and ML frameworks, which enabled me to develop scalable and efficient solutions. With a track record of competing in hackathons and contributing to open-source projects, I continuously refined my skills through platforms like Kaggle. I was eager to apply my knowledge to data-driven problems, leveraging AI/ML to create impactful and innovative solutions.
 
 - 🎓 **Education**: Master's in AI & Machine Learning
 - 🔭 **Interest Areas**: Computer Vision, Deep Learning, 3D Point Cloud Processing
-- 💻 **Programming**: Python, C++, C, SQL
+- 💻 **Programming**: Python, SQL
 - 🌐 **Location**: India
 
 ## Contact Information
@@ -41,14 +41,14 @@ I am an MSc candidate in Artificial Intelligence and Machine Learning at IIIT Lu
 - **ML Ops**: 📈 MLflow, 🔄 DVC, 📊 Weights & Biases
 
 ### 🔧 Programming & Tools
-- **Languages**: 🐍 Python, 🔌 C++, ⚙️ C, 🗃️ SQL
+- **Languages**: 🐍 Python,  🗃️ SQL
 - **Data Science**: 🔢 NumPy, 🐼 Pandas, 🧪 scikit-learn
 - **Visualization**: 📊 Matplotlib, 🌊 Seaborn, 📉 Plotly
 - **Development**: 🔄 Git, 💻 VS Code, 📓 Jupyter
 
 ### ☁️ Cloud & Infrastructure
 - **Cloud Platforms**: 🟠 AWS, 🔵 GCP, 🟦 Azure
-- **Containers & Orchestration**: 🐳 Docker, ☸️ Kubernetes
+- **Containers**: 🐳 Docker
 - **Databases**: 🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB
 
 ## Education
