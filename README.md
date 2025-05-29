@@ -47,9 +47,9 @@ I was an MSc candidate in Artificial Intelligence and Machine Learning at IIIT L
 - **Development**: 🔄 Git, 💻 VS Code, 📓 Jupyter
 
 ### ☁️ Cloud & Infrastructure
-- **Cloud Platforms**: 🟠 AWS, 🔵 GCP, 🟦 Azure
+- **Cloud Platforms**: 🟠 AWS, 🔵 GCP
 - **Containers**: 🐳 Docker
-- **Databases**: 🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB
+- **Databases**: 🐬 MySQL, 🍃 MongoDB
 
 ## Education
 - **Master's in AI & Machine Learning** (2023-2025)
