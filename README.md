@@ -19,11 +19,7 @@ I was an MSc candidate in Artificial Intelligence and Machine Learning at IIIT L
 ## Experience
 
 - **AI Engineer** | [DeepMatrix](https://deepmatrix.io) | *April 2025 - Present*
-  - Learning to develop pipelines for object detection and defect detection using YOLO
-  - Exploring implementation of various detection algorithms
-  - Learning about optimization techniques for inference on different platforms
   
-
 - **Data Science Intern** | Climate Resilience Observatory (CRO), Government of Uttar Pradesh | *Sep 2024 - Apr 2025 · 8 mos*
   -  Engineered end-to-end lightning prediction system for Uttar Pradesh using CNN-LSTM hybrid architecture, achiev
      ing 86% prediction accuracy through optimized feature extraction and model tuning.
