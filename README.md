@@ -1,171 +1,74 @@
 # Susanta Baidya
-## AI/ML Engineer | Gen AI & Agentic AI Enthusiast | Computer Vision Developer
+## Python ML Engineer | AI/ML Specialist | Computer Vision Developer
 
-I am Susanta Baidya, an AI/ML professional currently working as an AI/ML Intern at DeepMatrix, Bengaluru. I hold an MSc in Artificial Intelligence and Machine Learning from the Indian Institute of Information Technology, Lucknow (CGPA: 8.20/10), and a BSc (Honours) in Statistics. With hands-on experience spanning Computer Vision, Generative AI, and Agentic AI through industry internships, I am passionate about developing cutting-edge AI solutions including LLM-powered applications, autonomous AI agents, and production-ready ML systems.
-
-My work ranges from YOLO-based object detection systems to sophisticated RAG implementations and natural language to command-line interfaces. I have successfully contributed to systems that improved inference speed by 35% and detection accuracy by 28%, with a strong focus on practical AI applications that drive real business impact in the era of generative intelligence.
-
----
-
-## 🎯 Quick Stats
-- 🎓 **Education**: MSc AI & ML (CGPA: 8.20/10) | BSc Statistics (72%)
-- 🔭 **Expertise**: Computer Vision, Gen AI, Agentic AI, Deep Learning, LLMs
-- 💻 **Programming**: Python, SQL, TensorFlow, PyTorch
-- 🏆 **Achievements**: 15+ Projects | IIT JAM AIR 218 | ISRO Certified
-- 🌐 **Location**: Bengaluru, India
+AI/ML professional with expertise in Computer Vision, Generative AI, and Deep Learning. Currently developing enterprise-grade recommendation systems and conversational AI solutions at Solulever. MSc in AI & ML from IIIT Lucknow with proven track record in deploying production-ready ML systems that drive measurable business impact.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 AI/ML Intern | [DeepMatrix](https://deepmatrix.io) | *April 2025 - Present*
-- **Tech Stack**: YOLO, Computer Vision, Object Detection, Manufacturing AI
+**Python ML Engineer** | [Solulever](https://solulever.com/) | *July 2025 - Present*
+- Developing enterprise-grade recommendation systems and conversational AI solutions for manufacturing clients
+- Architecting end-to-end chatbot pipelines that automate customer support and enhance operational efficiency
 
-### 📊 Data Science Intern | Climate Resilience Observatory (CRO), UP Government | *Sep 2024 - Mar 2025*
-- Developed thunderstorm prediction system for Uttar Pradesh using bidirectional LSTM, achieving **69% accuracy and 0.74 AUC** with 12-hour lead time by integrating multiple meteorological data sources
-- Developed Flask-based web interface with real-time lightning tracking and geospatial visualizations, creating risk dashboards and automated ETL pipelines that **improved emergency response efficiency by 40%**
-- **Tech Stack**: LSTM, Deep Learning, Weather Prediction, Flask, Geospatial Analysis
+**AI/ML Intern** | [DeepMatrix](https://deepmatrix.io) | *April 2025 - July 2025*
+- Developed optimized YOLO-based object detection pipelines for manufacturing defect identification
+- Improved inference speed by 35% and detection accuracy by 28% while reducing false positives by 45%
+
+**Data Science Intern** | Climate Resilience Observatory, UP Government | *Sep 2024 - Mar 2025*
+- Built thunderstorm prediction system using bidirectional LSTM, achieving 69% accuracy with 12-hour lead time
+- Developed Flask-based web interface that improved emergency response efficiency by 40%
 
 ---
 
 ## 🎓 Education
 
-### 🏛️ Master of Science (IT) | IIIT Lucknow | *2023-2025*
-- **Specialization**: Artificial Intelligence & Machine Learning
-- **CGPA**: 8.20/10
-- **Focus Areas**: Advanced AI/ML, Deep Learning, Computer Vision
+**MSc (IT) - Artificial Intelligence & Machine Learning** | IIIT Lucknow | *2023-2025*  
+CGPA: 8.20/10
 
-### 🎓 Bachelor of Science (Honours) | Maharaja Bir Bikram College, Agartala | *2020-2023*
-- **Specialization**: Statistics
-- **Grade**: 72%
-- **Focus Areas**: Statistical Analysis, Data Science, Mathematical Modeling
-
----
-
-## 🏆 Certifications & Achievements
-
-### 🛰️ **AI/ML for Geodata Analysis** - Indian Space Research Organisation (ISRO)
-### 🏆 **IIT JAM 2023** - All India Rank: **218** out of 3,563 candidates (Top 6.12%)
-### 💻 **CodeSmash 2.0** - Rank: **171st** out of 3,000+ participants (Score: 97/100)
-### 📊 **Kaggle Competition** - **0.81 score** in PII Detection challenge
+**BSc (Honours) - Statistics** | Maharaja Bir Bikram College | *2020-2023*  
+Grade: 72%
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🧠 AI & Machine Learning
-- **Deep Learning**: 🔥 PyTorch, 📊 TensorFlow, 🧠 Keras
-- **Computer Vision**: 👁️ OpenCV, 🎯 YOLO, 🔍 FAISS
-- **LLMs & Gen AI**: 💬 GPT, 🤖 BERT, 🔮 Gemini AI
-- **Specialized AI**: 🧮 RAG, 🔤 NLP, 🎭 Transformers, 📝 LSTM, 🤖 Agentic AI
-- **MLOps**: 📈 MLflow
-
-### 🔧 Programming & Development
-- **Languages**: 🐍 Python, 🗃️ SQL
-- **Data Science**: 🔢 NumPy, 🐼 Pandas, 🧪 scikit-learn
-- **Web Frameworks**: 🌶️ Flask, ⚡ Streamlit, 🚀 FastAPI
-- **Development Tools**: 🔄 Git, 💻 VS Code, 📓 Jupyter
-
-### ☁️ Cloud & Infrastructure
-- **Cloud Platforms**: 🟠 AWS, 🔵 GCP
-- **Containers**: 🐳 Docker
-- **Databases**: 🐬 MySQL, 🍃 MongoDB
-- **APIs**: 🔗 REST API
-
-### 📊 Data Science & Visualization
-- **Visualization**: 📈 Matplotlib, 🌊 Seaborn, 🗺️ Folium, ⚡ Plotly
-- **Data Processing**: 🔄 ETL, 📅 Time Series Analysis
+**Programming & Frameworks**: Python, SQL, TensorFlow, PyTorch, Keras, Flask, Streamlit, FastAPI  
+**AI/ML Specializations**: Computer Vision (YOLO, OpenCV), NLP (BERT, GPT, SBERT), Deep Learning (LSTM, CNN), RAG, Vector Search (FAISS)  
+**Cloud & Tools**: AWS, GCP, Docker, Git, MLflow, CI/CD Pipelines  
+**Data Science**: Pandas, NumPy, scikit-learn, Matplotlib, Plotly
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 🎯 **Spacer Defect Detection System**
-Advanced computer vision system using YOLOv5 for detecting 23 defect classes, achieving 0.56 mAP@0.5 with Flask-based API and real-time visualization.
-- **Tech**: YOLOv5, Computer Vision, Flask, Python
-- **[GitHub](https://github.com/Susanta2102/Spacer-Defect-Detection-Using-YOLOv5-Flask-)**
+**[Spacer Defect Detection System](https://github.com/Susanta2102/Spacer-Defect-Detection-Using-YOLOv5-Flask-)**  
+YOLOv5-based system for detecting 23 defect classes, achieving 0.56 mAP@0.5 with Flask API and real-time visualization.
 
-### 🧮 **RAG-Based Semantic Quote Retrieval System**
-Complete RAG pipeline with semantic search using Sentence Transformers and FAISS vector indexing, processing 2,507+ quotes with 100% query success rate.
-- **Tech**: RAG, FAISS, Transformers, NLP
-- **[GitHub](https://github.com/Susanta2102/RAG-Based-Semantic-Quote-Retrieval-System)**
+**[RAG-Based Semantic Quote Retrieval](https://github.com/Susanta2102/RAG-Based-Semantic-Quote-Retrieval-System)**  
+Complete RAG pipeline with FAISS vector indexing, processing 2,507+ quotes with 100% query success rate and sub-second response times.
 
-### 🤖 **CLI Agent - Agentic AI System**
-Advanced agentic AI system with fine-tuned LLM that autonomously converts natural language instructions into precise command-line operations with intelligent planning.
-- **Tech**: Agentic AI, LLM, NLP, CLI
-- **[GitHub](https://github.com/Susanta2102/CLI-Agent-Natural-Language-to-Command-Line-Interface)**
+**[Security Policy Compliance Automation](https://github.com/Susanta2102/NLP-GROUP-PROJECT)**  
+Fine-tuned BERT, GPT, and SBERT models for compliance checking with 89% accuracy, reducing manual assessment time by 75%.
 
-### ⛈️ **Thunderstorm Prediction System**
-Deep learning-based prediction system using bidirectional LSTM, achieving 69% accuracy with 12-hour lead time for Uttar Pradesh weather forecasting.
-- **Tech**: LSTM, Deep Learning, Weather Prediction, Flask
-- **[GitHub](https://github.com/Susanta2102/Thunderstorm-Prediction-System-for-Uttar-Pradesh)**
-
-### 🏥 **Adaptive X-ray Preprocessing Pipeline**
-Advanced image preprocessing pipeline for dental IOPA X-rays, enhancing diagnostic accuracy while maintaining clinical workflow efficiency.
-- **Tech**: Medical Imaging, Computer Vision, Image Processing, Healthcare AI
-- **[GitHub](https://github.com/Susanta2102/Adaptive-Image-Preprocessing-Pipeline-for-IOPA-X-rays)**
-
-
-### 📈 **DeepStock - Stock Prediction**
-Deep RNN model trained on five years of historical Google stock price data to forecast stock performance over a two-month period.
-- **Tech**: RNN, Time Series, Financial ML, TensorFlow
-- **[GitHub](https://github.com/Susanta2102/DeepStock)**
-
-
-### 🧠 **Neural Network from Scratch**
-Implementation of neural network fundamentals using Python and NumPy, covering weight initialization, forward/backward propagation, and gradient descent.
-- **Tech**: Neural Networks, NumPy, Deep Learning, Python
-- **[GitHub](https://github.com/Susanta2102/Neural-Network-from-scratch)**
-
-### 📖 **Gemini-Powered Story Creator**
-Generative AI application leveraging Google's Gemini LLM that analyzes uploaded images to generate unique creative stories, demonstrating multimodal AI capabilities.
-- **Tech**: Gemini AI, Gen AI, Multimodal, Streamlit
-- **[GitHub](https://github.com/Susanta2102/Story-Teller)**
-
+**[Thunderstorm Prediction System](https://github.com/Susanta2102/Thunderstorm-Prediction-System-for-Uttar-Pradesh)**  
+Bidirectional LSTM model for weather forecasting with 69% accuracy and 12-hour lead time for Uttar Pradesh.
 
 ---
 
-## 📈 Current Learning Focus
-- **Advanced Agentic AI Systems**: Building autonomous AI agents with complex reasoning capabilities
-- **Large Language Models**: Fine-tuning and optimization of LLMs for domain-specific applications
-- **Computer Vision at Scale**: Advanced object detection and image processing for industrial applications
-- **MLOps & Production**: Deploying and scaling AI/ML systems in production environments
-- **Multimodal AI**: Combining vision, language, and other modalities for comprehensive AI solutions
+## 🏆 Achievements
+
+- **IIT JAM 2023**: All India Rank 218 out of 3,563 candidates
+- **AI/ML for Geodata Analysis** - ISRO Certification
+- **CodeSmash 2.0**: Rank 171st out of 3,000+ participants
+- **Kaggle**: 0.81 score in PII Detection challenge
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Susanta2102&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Susanta2102&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-- 📧 **Email**: [susantabaidya20133@gmail.com](mailto:susantabaidya20133@gmail.com)
-- 🔗 **LinkedIn**: [susanta-baidya-03436628a](https://www.linkedin.com/in/susanta-baidya-03436628a/)
-- 🐙 **GitHub**: [Susanta2102](https://github.com/Susanta2102)
-- 📊 **Kaggle**: [susanta21](https://www.kaggle.com/susanta21)
-- 💻 **LeetCode**: [msa23009_iiitl](https://leetcode.com/u/msa23009_iiitl/)
-- 🐦 **Twitter**: [SusantBaidya](https://x.com/SusantBaidya)
-- 🌐 **Portfolio**: [View My Portfolio](https://susanta2102.github.io/Portfolio/)
-
----
-
-## 💡 Fun Facts
-- 🎯 Completed 15+ AI/ML projects across various domains
-- 🏆 Ranked in top 0.1% in IIT JAM 2023 nationwide examination
-- 🤖 Passionate about building AI agents that can understand and execute complex tasks
-- 🌟 Active contributor to open-source AI/ML projects
-- 📚 Continuous learner exploring the latest in Gen AI and LLM technologies
-
----
-
-**"Passionate about building AI solutions that make a real difference in the world. Always excited to collaborate on innovative projects that push the boundaries of what's possible with AI/ML!"** 🚀
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Susanta2102&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/Susanta2102?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Susanta2102?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanta-baidya-03436628a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Susanta2102)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:susantabaidya20133@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://susanta-baidya.vercel.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/susanta21)
