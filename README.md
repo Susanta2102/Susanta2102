@@ -147,37 +147,6 @@ me = SusantaBaidya()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Brabo AIQ](https://img.shields.io/badge/🤖_Brabo_AIQ-Enterprise_AI_Analytics_Platform-6366f1?style=for-the-badge)](https://github.com/Susanta2102)
-[![Computer Vision](https://img.shields.io/badge/👁️_Defect_Detection-YOLO_Based_CV_System-8b5cf6?style=for-the-badge)](https://github.com/Susanta2102)
-[![RAG System](https://img.shields.io/badge/📚_RAG_System-Semantic_Quote_Retrieval-ec4899?style=for-the-badge)](https://github.com/Susanta2102)
-[![Lightning Prediction](https://img.shields.io/badge/⚡_Thunderstorm_Prediction-LSTM_Time_Series-f59e0b?style=for-the-badge)](https://github.com/Susanta2102)
-
-</div>
-
-### 🏭 Brabo AIQ - Enterprise AI Analytics Platform
-🔹 Built with **LangChain, GPT-4, Streamlit**  
-🔹 Multi-tenant architecture with **PostgreSQL/MongoDB**  
-🔹 RBAC authentication with **JWT**  
-🔹 Real-time workflow automation using **LangChain agents**
-
-### 👁️ Spacer Defect Detection System
-🔹 **YOLOv5-based** object detection pipeline  
-🔹 **35% faster** inference speed  
-🔹 **28% improved** detection accuracy  
-🔹 **45% reduction** in false positives
-
-### ⚡ Thunderstorm Prediction System
-🔹 **Bidirectional LSTM** model achieving **69% accuracy**  
-🔹 **12-hour lead time** for predictions  
-🔹 **Flask-based** web interface with real-time tracking  
-🔹 Improved emergency response efficiency by **40%**
-
----
-
 ## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
