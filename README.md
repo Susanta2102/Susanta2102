@@ -13,35 +13,19 @@
 
 ## 🚀 About Me
 
-```python
-class SusantaBaidya:
-    def __init__(self):
-        self.name = "Susanta Baidya"
-        self.role = "Python ML Engineer"
-        self.company = "Solulever Technologies"
-        self.location = "Gurugram, India 🇮🇳"
-        self.education = "MSc AI & ML @ IIIT Lucknow"
-        self.languages = ["Python", "SQL"]
-        
-    def current_work(self):
-        return {
-            "🏢 Building": "Enterprise AI Analytics Platform (Brabo AIQ)",
-            "🤖 Working with": ["LangChain", "GPT-4", "RAG", "LLMs"],
-            "🔧 Developing": "Industrial IoT ML Systems",
-            "📊 Focus": "Production-Ready ML Pipelines"
-        }
-    
-    def interests(self):
-        return [
-            "🧠 Generative AI & LLM Orchestration",
-            "👁️ Computer Vision & Object Detection",
-            "💬 Conversational AI & Chatbots",
-            "⚡ Time Series Forecasting",
-            "🏭 Industrial ML Applications"
-        ]
 
-me = SusantaBaidya()
 ```
+I’m a Python Machine Learning Engineer, graduated from IIIT Lucknow with an MSc in Artificial Intelligence and Machine Learning. I specialize in designing and deploying scalable AI systems that combine Generative AI, NLP, Computer Vision, and Agentic AI for real-world applications.
+
+My professional experience includes developing enterprise-grade AI analytics platforms and conversational intelligence systems that leverage LangChain, GPT-4, and multi-tenant architectures to automate workflows, enable natural language data querying, and enhance industrial decision-making through predictive analytics.
+
+I’ve also worked on impactful projects such as a lightning prediction system, defect detection using YOLOv5, and RAG-based semantic search engines, integrating deep learning models with cloud and data engineering tools for production-ready deployment.
+
+With a strong foundation in Python, SQL, PyTorch, TensorFlow, FastAPI, and AWS, I focus on building robust, efficient, and explainable AI solutions that bridge data science and business value.
+
+Beyond work, I actively participate in Kaggle competitions, hackathons, and open-source AI projects, continuously exploring how LLMs and autonomous agents can revolutionize automation, analytics, and decision intelligence.
+
+ Passionate about applying AI to solve data-driven challenges that make a tangible impact.
 
 ---
 
@@ -137,15 +121,7 @@ me = SusantaBaidya()
   <img src="https://github-profile-trophy.vercel.app/?username=Susanta2102&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Susanta2102&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 📝 Latest Blog Posts & Articles
 
@@ -197,22 +173,6 @@ learning:
 </p>
 
 ---
-
-## 💡 Fun Facts
-
-```javascript
-const susanta = {
-    pronouns: "He/Him",
-    location: "Gurugram, Haryana, India 🇮🇳",
-    askMeAbout: ["AI/ML", "Computer Vision", "LLMs", "Time Series", "Industrial IoT"],
-    technologies: {
-        mostExcitedAbout: ["Generative AI", "Multi-Agent Systems", "Production ML"],
-        currentlyExploring: ["Advanced RAG", "LLM Fine-tuning", "MLOps at Scale"]
-    },
-    funFact: "I turn industrial data into actionable AI insights! 🏭🤖",
-    availableFor: "Full-time ML Engineering & AI Development roles"
-};
-```
 
 ---
 
