@@ -11,34 +11,7 @@
 
 ---
 
-## 🚀 About Me
 
-I'm a **Python Machine Learning Engineer** and recent MSc graduate in **Artificial Intelligence and Machine Learning** from **IIIT Lucknow**. I specialize in designing and deploying scalable AI systems that combine Generative AI, NLP, Computer Vision, and Agentic AI for real-world applications.
-
-### 🎯 What I Do
-
-My professional experience includes developing **enterprise-grade AI analytics platforms** and **conversational intelligence systems** that leverage LangChain, GPT-4, and multi-tenant architectures to:
-- Automate complex workflows with AI agents
-- Enable natural language data querying for business users
-- Enhance industrial decision-making through predictive analytics
-- Build production-ready ML pipelines for manufacturing and IoT
-
-### 🔬 Notable Projects
-
-I've worked on impactful projects including:
-- ⚡ Lightning prediction system using meteorological data
-- 🔍 Manufacturing defect detection with YOLOv5
-- 🧠 RAG-based semantic search engines with vector databases
-- 📊 Real-time industrial monitoring dashboards
-- 🤖 Multi-agent systems for enterprise automation
-
-### 💪 Core Strengths
-
-With a strong foundation in **Python, SQL, PyTorch, TensorFlow, FastAPI, and AWS**, I focus on building robust, efficient, and explainable AI solutions that bridge data science and business value.
-
-Beyond work, I actively participate in **Kaggle competitions**, **hackathons**, and **open-source AI projects**, continuously exploring how LLMs and autonomous agents can revolutionize automation, analytics, and decision intelligence.
-
----
 
 ## 💼 Professional Experience
 
@@ -130,36 +103,7 @@ Worked on geospatial data analysis and climate prediction models.
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
 </p>
 
----
 
-## 🌟 What I'm Currently Working On
-
-```yaml
-current_projects:
-  - 🏭 Industrial ML Systems: Boiler efficiency optimization with time series forecasting
-  - 🤖 Generative AI: Multi-agent systems with LangChain for workflow automation
-  - 📊 Analytics Platform: Real-time monitoring dashboards with Streamlit
-  - 🔧 MLOps Pipeline: Production deployment with Docker & AWS
-  
-learning:
-  - 🧠 Advanced LLM fine-tuning & prompt engineering
-  - 🔄 Multi-modal AI applications (vision + language)
-  - 📈 Large-scale time series models (TimesFM, Chronos)
-  - 🏗️ Scalable ML architecture & system design patterns
-  - 🚀 Agentic AI workflows & tool-calling systems
-```
-
----
-
-## 📝 Featured Content & Articles
-
-🔹 Building Production-Ready ML Pipelines for Industrial IoT  
-🔹 LangChain & RAG: Enterprise AI Applications at Scale  
-🔹 Computer Vision for Manufacturing Defect Detection  
-🔹 Time Series Forecasting with Deep Learning Models  
-🔹 Multi-Agent Systems: The Future of AI Automation
-
----
 
 ## 📫 Let's Connect!
 
