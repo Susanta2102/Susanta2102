@@ -47,6 +47,7 @@ Worked on geospatial data analysis and climate prediction models.
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
 </p>
 
 ### Data Science & Analytics
@@ -61,11 +62,19 @@ Worked on geospatial data analysis and climate prediction models.
 ### 🤖 Generative AI & LLMs
 <p align="left">
   <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/GPT--4-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" alt="Groq" />
+  <img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=for-the-badge" alt="Llama 3.3" />
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/BERT-FFA116?style=for-the-badge" alt="BERT" />
+  <img src="https://img.shields.io/badge/SBERT-FF6B35?style=for-the-badge" alt="SBERT" />
   <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-00D9FF?style=for-the-badge" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/Vector_Search-9B59B6?style=for-the-badge" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-E74C3C?style=for-the-badge" alt="Agentic Workflows" />
 </p>
 
 ### 👁️ Computer Vision & NLP
@@ -74,6 +83,8 @@ Worked on geospatial data analysis and climate prediction models.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/CNN--LSTM-FF6F61?style=for-the-badge" alt="CNN-LSTM" />
+  <img src="https://img.shields.io/badge/LSTM-8E44AD?style=for-the-badge" alt="LSTM" />
 </p>
 
 ### 🌐 Web Frameworks & APIs
@@ -82,15 +93,28 @@ Worked on geospatial data analysis and climate prediction models.
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge" alt="RESTful API" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/CORS-E535AB?style=for-the-badge" alt="CORS" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/GitHub_Webhooks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Webhooks" />
+</p>
+
+### 🗄️ Databases & Vector Stores
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=white" alt="TimescaleDB" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge" alt="Vector DB" />
 </p>
 
 ### 🔧 Development Tools
