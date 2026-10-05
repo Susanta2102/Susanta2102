@@ -13,4 +13,4 @@ I enjoy exploring unconventional ideas in AI. Many of my experiments start out a
 - MSc in AI/ML, IIIT Lucknow (2025)
 - BSc in Statistics, MBB College (2023)
 
-### Always learning, always building.
+### Always learning, always building. :)
